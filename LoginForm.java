@@ -1,5 +1,5 @@
 class LoginForm{
-    UserDAO dao = new UserDAO();
+    UserDAO dao = new  UserDAO();
     //初始化类
     void init(){
         初始化
